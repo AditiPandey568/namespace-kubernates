@@ -50,4 +50,4 @@ git clone https://github.com/AditiPandey568/namespace-kubernates.git
 - Explore Helm charts for easier management of Kubernetes applications.
 
 ## Contact
-For questions, feel free to reach out to [Your Name] at [Your Email].
+For questions, feel free to reach out to Aditi Pandey at pandeyaditi0307@gmail.com.
