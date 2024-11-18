@@ -37,6 +37,14 @@ This project demonstrates the process of managing Kubernetes resources, includin
 - Minikube
 - Kubernetes CLI (kubectl)
 
+
+## Clone the Repository
+
+To clone this repository to your local machine, run the following command:
+
+```bash
+git clone https://github.com/AditiPandey568/namespace-kubernates.git
+
 ## Future Work
 - Expand the setup to include more complex services like LoadBalancers or StatefulSets.
 - Explore Helm charts for easier management of Kubernetes applications.
